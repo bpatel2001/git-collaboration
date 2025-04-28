@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 green apple
-=======
-Green Apple
->>>>>>> cbf171af07b74a38a3973f1206e4aa7abd047453
 fuji
 red delicious
